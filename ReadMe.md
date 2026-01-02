@@ -10,7 +10,7 @@
 
 This writeup documents the complete solution for all 34 levels (Level 0 through Level 33), providing commands, explanations, and visual references for each challenge.
 
-> ** Official Site:** [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)  
+> **Official Site:** [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)  
 
 
 ---
